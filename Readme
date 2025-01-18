@@ -1,0 +1,21 @@
+# Steps to set up and run the project
+
+1. Create a virtual environment:
+    ```
+    python -m venv myenv
+    ```
+
+2. Activate the virtual environment:
+    ```
+    .\myenv\Scripts\activate
+    ```
+
+3. Install the required dependencies:
+    ```
+    pip install -r requirements.txt
+    ```
+
+4. Run the project:
+    ```
+    python run.py
+    ```
