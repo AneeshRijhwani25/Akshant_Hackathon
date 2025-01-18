@@ -4,3 +4,6 @@ Flask-JWT-Extended==4.4.4
 Werkzeug==2.3.7
 bcrypt
 requests==2.31.0
+IPython
+easyocr 
+pillow
